@@ -4,6 +4,10 @@ AK-47的合成方法:[点击查看](Recipe/AK-47.md)
 
 Charcoal的合成方法:[点击查看](Recipe/Charcoal.md)
 
+Ladder的合成方法:[点击查看](Recipe/Ladder.md)
+
+Fence的合成方法:[点击查看](Recipe/Fence.md)
+
 Geo的合成方法:[点击查看](Recipe/Geo.md)
 
 Hand-Gun的合成方法:[点击查看](Recipe/Hand-Gun.md)
