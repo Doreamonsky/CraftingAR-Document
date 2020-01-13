@@ -4,8 +4,8 @@
 
 |1|2|3|
 |----|-----|-----|
-|Brick|-|-|
-|Brick|Brick|-|
+|Brick|无|无|
+|Brick|Brick|无|
 |Brick|Brick|Brick|
 
 是否需要加热: 否

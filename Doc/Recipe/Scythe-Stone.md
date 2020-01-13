@@ -4,9 +4,9 @@
 
 |1|2|3|
 |----|-----|-----|
-|Stone|Stone|-|
-|-|Stick|-|
-|-|Stick|-|
+|Stone|Stone|无|
+|无|Stick|无|
+|无|Stick|无|
 
 是否需要加热: 否
 
@@ -15,9 +15,9 @@
 
 |1|2|3|
 |----|-----|-----|
-|-|Stone|Stone|
-|-|Stick|-|
-|-|Stick|-|
+|无|Stone|Stone|
+|无|Stick|无|
+|无|Stick|无|
 
 是否需要加热: 否
 

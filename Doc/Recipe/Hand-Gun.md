@@ -5,8 +5,8 @@
 |1|2|3|
 |----|-----|-----|
 |Iron Ingot|Iron Ingot|Coal|
-|Iron Ingot|-|-|
-|-|-|-|
+|Iron Ingot|无|无|
+|无|无|无|
 
 是否需要加热: 否
 

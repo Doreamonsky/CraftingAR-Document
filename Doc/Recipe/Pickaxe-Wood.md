@@ -5,8 +5,8 @@
 |1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|Oak Wood Planks|Oak Wood Planks|
-|-|Stick|-|
-|-|Stick|-|
+|无|Stick|无|
+|无|Stick|无|
 
 是否需要加热: 否
 

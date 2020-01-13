@@ -4,9 +4,9 @@
 
 |1|2|3|
 |----|-----|-----|
-|Oak Wood Planks|-|-|
-|Stick|-|-|
-|Stick|-|-|
+|Oak Wood Planks|无|无|
+|Stick|无|无|
+|Stick|无|无|
 
 是否需要加热: 否
 
@@ -15,9 +15,9 @@
 
 |1|2|3|
 |----|-----|-----|
-|-|Oak Wood Planks|-|
-|-|Stick|-|
-|-|Stick|-|
+|无|Oak Wood Planks|无|
+|无|Stick|无|
+|无|Stick|无|
 
 是否需要加热: 否
 
@@ -26,9 +26,9 @@
 
 |1|2|3|
 |----|-----|-----|
-|-|-|Oak Wood Planks|
-|-|-|Stick|
-|-|-|Stick|
+|无|无|Oak Wood Planks|
+|无|无|Stick|
+|无|无|Stick|
 
 是否需要加热: 否
 
