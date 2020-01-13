@@ -1,4 +1,4 @@
-# Higher Math 合成方法
+# Higher-Math 合成方法
 
 |1|2|3|
 |----|-----|-----|
@@ -10,6 +10,7 @@
 
 生成 Higher Math \* 数量 2
 <br/> <br/> <br/> 
+
 |1|2|3|
 |----|-----|-----|
 |Grass|Grass|Grass|

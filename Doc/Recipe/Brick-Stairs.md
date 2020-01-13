@@ -1,4 +1,4 @@
-# Brick Stairs 合成方法
+# Brick-Stairs 合成方法
 
 |1|2|3|
 |----|-----|-----|

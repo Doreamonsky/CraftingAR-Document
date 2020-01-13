@@ -1,13 +1,13 @@
-# Iron Ingot 合成方法
+# Math-Analysis 合成方法
 
 |1|2|3|
 |----|-----|-----|
-|Ore Iron|-|-|
+|Higher Math|-|-|
 |-|-|-|
 |-|-|-|
 
 是否需要加热: 是
 
-生成 Iron Ingot \* 数量 1
+生成 Math Analysis \* 数量 2
 <br/> <br/> <br/> 
 

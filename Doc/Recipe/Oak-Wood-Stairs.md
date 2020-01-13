@@ -1,4 +1,4 @@
-# Oak Wood Stairs 合成方法
+# Oak-Wood-Stairs 合成方法
 
 |1|2|3|
 |----|-----|-----|

@@ -1,4 +1,4 @@
-# Pickaxe Wood 合成方法
+# Pickaxe-Wood 合成方法
 
 |1|2|3|
 |----|-----|-----|
