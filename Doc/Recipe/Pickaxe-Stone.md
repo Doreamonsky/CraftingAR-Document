@@ -2,7 +2,6 @@
 
 ![Icon](c6f9f67aaa6844542bbd72e600d7e050.png)
 
-|1|2|3|
 |----|-----|-----|
 |Stone|Stone|Stone|
 |无|Stick|无|

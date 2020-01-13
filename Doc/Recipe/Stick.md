@@ -2,7 +2,6 @@
 
 ![Icon](d4ca5417d333711459f0bd5bad39a540.png)
 
-|1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|无|无|
 |Oak Wood Planks|无|无|
@@ -13,7 +12,6 @@
 生成 Stick \* 数量 4
 <br/> <br/> <br/> 
 
-|1|2|3|
 |----|-----|-----|
 |无|无|无|
 |Oak Wood Planks|无|无|
@@ -24,7 +22,6 @@
 生成 Stick \* 数量 4
 <br/> <br/> <br/> 
 
-|1|2|3|
 |----|-----|-----|
 |无|Oak Wood Planks|无|
 |无|Oak Wood Planks|无|
@@ -35,7 +32,6 @@
 生成 Stick \* 数量 4
 <br/> <br/> <br/> 
 
-|1|2|3|
 |----|-----|-----|
 |无|无|无|
 |无|Oak Wood Planks|无|
@@ -46,7 +42,6 @@
 生成 Stick \* 数量 4
 <br/> <br/> <br/> 
 
-|1|2|3|
 |----|-----|-----|
 |无|无|Oak Wood Planks|
 |无|无|Oak Wood Planks|
@@ -57,7 +52,6 @@
 生成 Stick \* 数量 4
 <br/> <br/> <br/> 
 
-|1|2|3|
 |----|-----|-----|
 |无|无|无|
 |无|无|Oak Wood Planks|

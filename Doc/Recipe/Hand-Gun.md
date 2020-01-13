@@ -2,7 +2,6 @@
 
 ![Icon](d6e4dc2ab496ac845a119b14c5abbb91.png)
 
-|1|2|3|
 |----|-----|-----|
 |Iron Ingot|Iron Ingot|Coal|
 |Iron Ingot|无|无|

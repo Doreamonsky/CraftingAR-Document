@@ -2,7 +2,6 @@
 
 ![Icon](fe0f7a579ffcf704aafeb0bb409b5bf3.jpg)
 
-|1|2|3|
 |----|-----|-----|
 |Higher Math|无|无|
 |无|无|无|

@@ -2,7 +2,6 @@
 
 ![Icon](85f92aa704a2ba34aab45e3aa7d0fcfa.png)
 
-|1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|Oak Wood Planks|Oak Wood Planks|
 |无|Stick|无|
