@@ -1,4 +1,4 @@
-# Higher Math 配方
+# Higher Math 合成方法
 
 |1|2|3|
 |----|-----|-----|
@@ -9,8 +9,7 @@
 是否需要加热: 否
 
 生成 Higher Math \* 数量 2
-<br/> <br/> 
-
+<br/> <br/> <br/> 
 |1|2|3|
 |----|-----|-----|
 |Grass|Grass|Grass|
@@ -20,5 +19,5 @@
 是否需要加热: 是
 
 生成 Higher Math \* 数量 2
-<br/> <br/> 
+<br/> <br/> <br/> 
 

@@ -1,4 +1,4 @@
-# Pickaxe Stone 配方
+# Pickaxe Stone 合成方法
 
 |1|2|3|
 |----|-----|-----|
@@ -9,5 +9,5 @@
 是否需要加热: 否
 
 生成 Pickaxe Stone \* 数量 1
-<br/> <br/> 
+<br/> <br/> <br/> 
 

@@ -1,4 +1,4 @@
-# Oak Wood Stairs 配方
+# Oak Wood Stairs 合成方法
 
 |1|2|3|
 |----|-----|-----|
@@ -9,5 +9,5 @@
 是否需要加热: 否
 
 生成 Oak Wood Stairs \* 数量 4
-<br/> <br/> 
+<br/> <br/> <br/> 
 

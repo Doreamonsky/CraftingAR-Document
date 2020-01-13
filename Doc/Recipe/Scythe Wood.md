@@ -1,4 +1,4 @@
-# Scythe Wood 配方
+# Scythe Wood 合成方法
 
 |1|2|3|
 |----|-----|-----|
@@ -9,8 +9,7 @@
 是否需要加热: 否
 
 生成 Scythe Wood \* 数量 1
-<br/> <br/> 
-
+<br/> <br/> <br/> 
 |1|2|3|
 |----|-----|-----|
 |-|Oak Wood Planks|Oak Wood Planks|
@@ -20,5 +19,5 @@
 是否需要加热: 否
 
 生成 Scythe Wood \* 数量 1
-<br/> <br/> 
+<br/> <br/> <br/> 
 
