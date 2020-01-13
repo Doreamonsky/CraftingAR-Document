@@ -1,5 +1,7 @@
 # Shovel-Wood 合成方法
 
+![Icon](Doc/Recipe/75c48cd0c707bfd42ba38060a2c9ad00.png)
+
 |1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|-|-|

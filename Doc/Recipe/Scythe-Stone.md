@@ -1,5 +1,7 @@
 # Scythe-Stone 合成方法
 
+![Icon](Doc/Recipe/956a9fe84bb31224db4a836c2c647feb.png)
+
 |1|2|3|
 |----|-----|-----|
 |Stone|Stone|-|

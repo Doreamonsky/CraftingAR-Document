@@ -1,5 +1,7 @@
 # Oak-Wood-Planks 合成方法
 
+![Icon](Doc/Recipe/72d8349b296325e4dab2611e472810b3.png)
+
 |1|2|3|
 |----|-----|-----|
 |Oak Wood|-|-|

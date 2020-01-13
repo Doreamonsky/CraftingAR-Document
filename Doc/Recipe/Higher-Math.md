@@ -1,5 +1,7 @@
 # Higher-Math 合成方法
 
+![Icon](Doc/Recipe/fa3525ebf4995ea48a4ac0efb675e536.jpg)
+
 |1|2|3|
 |----|-----|-----|
 |Math Analysis|-|-|

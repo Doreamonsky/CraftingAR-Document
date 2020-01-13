@@ -1,5 +1,7 @@
 # Brick-Stairs 合成方法
 
+![Icon](Doc/Recipe/d0245c411c90a50438b0779a01924d39.png)
+
 |1|2|3|
 |----|-----|-----|
 |Brick|-|-|

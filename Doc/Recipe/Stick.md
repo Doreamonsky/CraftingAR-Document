@@ -1,5 +1,7 @@
 # Stick 合成方法
 
+![Icon](Doc/Recipe/d4ca5417d333711459f0bd5bad39a540.png)
+
 |1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|-|-|

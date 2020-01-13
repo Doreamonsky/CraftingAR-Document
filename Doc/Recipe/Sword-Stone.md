@@ -1,5 +1,7 @@
 # Sword-Stone 合成方法
 
+![Icon](Doc/Recipe/a75b627ab4baae24faeb489a472c1972.png)
+
 |1|2|3|
 |----|-----|-----|
 |Stone|-|-|

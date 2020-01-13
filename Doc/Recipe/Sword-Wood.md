@@ -1,5 +1,7 @@
 # Sword-Wood 合成方法
 
+![Icon](Doc/Recipe/e84c3e85dd432084881c0c6c0649472e.png)
+
 |1|2|3|
 |----|-----|-----|
 |Oak Wood Planks|-|-|

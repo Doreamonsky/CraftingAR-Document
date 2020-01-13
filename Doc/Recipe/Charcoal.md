@@ -1,5 +1,7 @@
 # Charcoal 合成方法
 
+![Icon](Doc/Recipe/9ff253ef39b5d054da000d25f34c5fbd.png)
+
 |1|2|3|
 |----|-----|-----|
 |Oak Wood|-|-|
