@@ -1,9 +1,9 @@
 # Sword Wood 配方
 
-||Oak Wood Planks 
-||Oak Wood Planks 
-||Stick 
-
+|1|2|3|
+|||Oak Wood Planks|
+|||Oak Wood Planks|
+|||Stick|
 
 是否需要加热: 否
 

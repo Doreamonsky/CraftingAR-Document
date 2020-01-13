@@ -1,9 +1,9 @@
 # Brick Stairs 配方
 
-Brick|| 
-Brick|Brick| 
-Brick|Brick|Brick 
-
+|1|2|3|
+|Brick|||
+|Brick|Brick||
+|Brick|Brick|Brick|
 
 是否需要加热: 否
 

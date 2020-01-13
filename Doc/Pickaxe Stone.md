@@ -1,9 +1,9 @@
 # Pickaxe Stone 配方
 
-Stone|Stone|Stone 
-|Stick| 
-|Stick| 
-
+|1|2|3|
+|Stone|Stone|Stone|
+||Stick||
+||Stick||
 
 是否需要加热: 否
 

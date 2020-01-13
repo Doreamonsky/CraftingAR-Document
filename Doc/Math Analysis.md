@@ -1,9 +1,9 @@
 # Math Analysis 配方
 
-Higher Math|| 
-|| 
-|| 
-
+|1|2|3|
+|Higher Math|||
+||||
+||||
 
 是否需要加热: 是
 

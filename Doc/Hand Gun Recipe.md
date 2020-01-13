@@ -1,9 +1,9 @@
 # Hand Gun 配方
 
-Iron Ingot|Iron Ingot|Coal 
-Iron Ingot|| 
-|| 
-
+|1|2|3|
+|Iron Ingot|Iron Ingot|Coal|
+|Iron Ingot|||
+||||
 
 是否需要加热: 否
 

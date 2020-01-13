@@ -1,9 +1,9 @@
 # Higher Math 配方
 
-Math Analysis|| 
-Geo|| 
-ODE|| 
-
+|1|2|3|
+|Math Analysis|||
+|Geo|||
+|ODE|||
 
 是否需要加热: 否
 

@@ -1,9 +1,9 @@
 # Sword Stone 配方
 
-||Stone 
-||Stone 
-||Stick 
-
+|1|2|3|
+|||Stone|
+|||Stone|
+|||Stick|
 
 是否需要加热: 否
 

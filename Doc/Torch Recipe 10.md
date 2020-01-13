@@ -1,9 +1,9 @@
 # Torch 配方
 
-|| 
-|Charcoal| 
-|Stick| 
-
+|1|2|3|
+||||
+||Charcoal||
+||Stick||
 
 是否需要加热: 否
 

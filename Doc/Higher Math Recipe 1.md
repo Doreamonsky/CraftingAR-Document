@@ -1,9 +1,9 @@
 # Higher Math 配方
 
-Grass|Grass|Grass 
-Grass|Grass|Grass 
-Grass|Grass|Grass 
-
+|1|2|3|
+|Grass|Grass|Grass|
+|Grass|Grass|Grass|
+|Grass|Grass|Grass|
 
 是否需要加热: 是
 

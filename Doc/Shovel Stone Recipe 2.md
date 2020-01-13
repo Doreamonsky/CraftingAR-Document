@@ -1,9 +1,9 @@
 # Shovel Stone 配方
 
-||Stone 
-||Stick 
-||Stick 
-
+|1|2|3|
+|||Stone|
+|||Stick|
+|||Stick|
 
 是否需要加热: 否
 
