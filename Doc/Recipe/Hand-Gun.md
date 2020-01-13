@@ -2,6 +2,7 @@
 
 ![Icon](d6e4dc2ab496ac845a119b14c5abbb91.png)
 
+|第一列|第二列|第三列|
 |----|-----|-----|
 |Iron Ingot|Iron Ingot|Coal|
 |Iron Ingot|无|无|
