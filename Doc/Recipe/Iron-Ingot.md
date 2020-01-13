@@ -1,6 +1,6 @@
 # Iron-Ingot 合成方法
 
-![Icon](Doc/Recipe/6b33913737386414196b6fc10843acac.png)
+![Icon](6b33913737386414196b6fc10843acac.png)
 
 |1|2|3|
 |----|-----|-----|

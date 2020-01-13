@@ -1,6 +1,6 @@
 # Torch 合成方法
 
-![Icon](Doc/Recipe/0df477ef104b31941ad608321e8d444e.png)
+![Icon](0df477ef104b31941ad608321e8d444e.png)
 
 |1|2|3|
 |----|-----|-----|

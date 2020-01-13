@@ -1,6 +1,6 @@
 # Pickaxe-Wood 合成方法
 
-![Icon](Doc/Recipe/85f92aa704a2ba34aab45e3aa7d0fcfa.png)
+![Icon](85f92aa704a2ba34aab45e3aa7d0fcfa.png)
 
 |1|2|3|
 |----|-----|-----|

@@ -1,6 +1,6 @@
 # Geo 合成方法
 
-![Icon](Doc/Recipe/976b16458ee200f45939a7f8a9f38fef.jpg)
+![Icon](976b16458ee200f45939a7f8a9f38fef.jpg)
 
 |1|2|3|
 |----|-----|-----|

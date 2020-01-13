@@ -1,6 +1,6 @@
 # Stone-Stairs 合成方法
 
-![Icon](Doc/Recipe/1575c5cb2c7d0294fb243066d2ea9317.png)
+![Icon](1575c5cb2c7d0294fb243066d2ea9317.png)
 
 |1|2|3|
 |----|-----|-----|

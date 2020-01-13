@@ -1,6 +1,6 @@
 # Pickaxe-Stone 合成方法
 
-![Icon](Doc/Recipe/c6f9f67aaa6844542bbd72e600d7e050.png)
+![Icon](c6f9f67aaa6844542bbd72e600d7e050.png)
 
 |1|2|3|
 |----|-----|-----|
