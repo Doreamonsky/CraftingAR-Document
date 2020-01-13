@@ -10,6 +10,8 @@ Fence的合成方法:[点击查看](Recipe/Fence.md)
 
 Geo的合成方法:[点击查看](Recipe/Geo.md)
 
+White-Glass的合成方法:[点击查看](Recipe/White-Glass.md)
+
 Hand-Gun的合成方法:[点击查看](Recipe/Hand-Gun.md)
 
 Higher-Math的合成方法:[点击查看](Recipe/Higher-Math.md)
