@@ -1,6 +1,6 @@
 # Hand-Gun 合成方法
 
-![Icon](d6e4dc2ab496ac845a119b14c5abbb91.png)
+![Icon](277b354f41a2da845b165ff4f5da2050.png)
 
 |第一列|第二列|第三列|
 |----|-----|-----|
